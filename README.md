@@ -2,8 +2,8 @@
 
 ## 准备清单：
 - [ ] 证件：护照、身份证、港澳通行证（看看是否有签注）
-- [x] Task List Item2
-- [ ] Task List Item3
+- [ ] 通讯：手机卡（AIS较稳/HAPPY较便宜   价格:7天/15GB 约27RMB）
+- [ ] 
 
 # taiguo
 准备清单：
